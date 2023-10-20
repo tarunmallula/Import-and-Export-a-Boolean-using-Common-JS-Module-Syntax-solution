@@ -7,3 +7,4 @@ Write a boolean with the value as `true` in the `exportBoolean.js` file and expo
 Import the boolean value in the `importBoolean.js` file.
 
 <b>Use Common JS module syntax</b>.
+# Import-and-Export-a-Boolean-using-Common-JS-Module-Syntax-solution
